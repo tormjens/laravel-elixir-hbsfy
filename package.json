@@ -1,0 +1,26 @@
+{
+  "name": "laravel-elixir-hbsfy",
+  "version": "1.0.0",
+  "description": "Laravel Elixir Hbsfy Support",
+  "main": "index.js",
+  "keywords": [
+    "laravel",
+    "elixir",
+    "hbsfy",
+    "handlebars"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tormjens/laravel-elixir-hbsfy"
+  },
+  "author": "Jeffrey Way",
+  "license": "MIT",
+  "homepage": "https://github.com/tormjens/laravel-elixir-hbsfy",
+  "bugs": {
+    "url": "https://github.com/tormjens/laravel-elixir-hbsfy/issues"
+  },
+  "dependencies": {
+    "handlebars": "^4",
+    "hbsfy": "2.5.1"
+  }
+}
